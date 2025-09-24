@@ -1,6 +1,6 @@
 # Hi there, I'm Jayant Jain 👋
 
-![Banner]()
+![Banner](https://github.com/JayantJainjj/Jayant-Jain/blob/main/github%20banner1.png)
 
 ## About Me
 
